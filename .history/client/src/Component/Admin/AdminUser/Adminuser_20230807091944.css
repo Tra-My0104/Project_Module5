@@ -1,0 +1,33 @@
+.container-adminUser{
+  display: flex;
+}
+
+.table{
+  width: 80%;
+  background-color: rgb(186, 229, 241);
+  text-align: center;
+  margin: 0 auto;
+  height: 200px;
+  margin-top: 30px;
+  bo
+}
+
+.table td{
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #040404;
+    background-color: white;
+}
+
+.table th, .table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-bottom: 1px solid #000;
+}
+
+.table .tr_header {
+  font-weight: bold;
+  background: linear-gradient(to right, #3DC3FF 0%, #4CB0FF 50%, #4CA3FF 100%);
+  color: rgb(31, 31, 31);
+}

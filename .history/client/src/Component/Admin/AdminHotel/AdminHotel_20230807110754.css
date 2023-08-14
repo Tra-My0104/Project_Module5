@@ -1,0 +1,16 @@
+.container-adminHotel{
+  display: flex;
+}
+
+.container-adminHotel {
+  display: flex;
+  flex-direction: column; /* Sắp xếp các phần tử theo chiều dọc */
+}
+
+
+/* CSS cho modal */
+.ant-modal-wrap {
+  display: flex;
+  justify-content: flex-end; /* Đặt modal bên phải */
+}
+

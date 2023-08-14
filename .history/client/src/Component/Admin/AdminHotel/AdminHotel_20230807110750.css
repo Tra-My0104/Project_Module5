@@ -1,0 +1,20 @@
+.container-adminHotel{
+  display: flex;
+}
+
+.container-adminHotel {
+  display: flex;
+  flex-direction: column; /* Sắp xếp các phần tử theo chiều dọc */
+}
+
+/* CSS cho bảng */
+.table {
+  /* Thêm các thuộc tính CSS tùy chỉnh cho bảng của bạn */
+}
+
+/* CSS cho modal */
+.ant-modal-wrap {
+  display: flex;
+  justify-content: flex-end; /* Đặt modal bên phải */
+}
+

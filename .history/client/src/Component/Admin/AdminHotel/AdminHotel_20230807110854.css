@@ -1,0 +1,12 @@
+.container-adminHotel{
+  display: flex;
+}
+
+
+
+/* CSS cho modal */
+.ant-modal-wrap {
+  display: flex;
+  justify-content: flex-end; /* Đặt modal bên phải */
+}
+

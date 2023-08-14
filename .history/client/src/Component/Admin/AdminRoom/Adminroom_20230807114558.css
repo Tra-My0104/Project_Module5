@@ -1,0 +1,6 @@
+.container-adminRoom{
+  .container-adminHotel{
+    display: flex;
+    position: relative;
+  }
+}

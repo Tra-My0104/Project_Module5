@@ -1,0 +1,6 @@
+.container-adminHotel{
+  display: flex;
+}
+.active{
+    width: 50px;
+}

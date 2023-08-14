@@ -1,0 +1,9 @@
+.container-adminHotel{
+  display: flex;
+}
+
+.custom-modal {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}

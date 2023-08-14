@@ -1,0 +1,15 @@
+.container-adminHotel{
+  display: flex;
+  position: relative;
+}
+
+
+
+/* CSS cho modal */
+.ant-modal-wrap {
+  position: absolute; /* Đặt modal ở vị trí tuyệt đối */
+  top: 0;
+  right: 26px;
+  margin-top: 10px; /* Đặt modal bên phải */
+}
+
